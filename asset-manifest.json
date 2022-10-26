@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gato--/static/css/main.bafeb80c.css",
+    "main.js": "/Gato--/static/js/main.ecb1aba9.js",
+    "index.html": "/Gato--/index.html",
+    "main.bafeb80c.css.map": "/Gato--/static/css/main.bafeb80c.css.map",
+    "main.ecb1aba9.js.map": "/Gato--/static/js/main.ecb1aba9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bafeb80c.css",
+    "static/js/main.ecb1aba9.js"
+  ]
+}
